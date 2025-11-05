@@ -14,7 +14,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcaban14@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafa%C5%82-caban/)
 
-# 💻 Tech Stack
+### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
@@ -27,13 +27,13 @@
 
 ---
 
-# 🧩 Projects
+### 🧩 Projects
 - 🖼️ [Image-Steganography](https://github.com/faafal/Image-Steganography) – C++ app to embed/extract hidden messages in images.
 - ⚙️ [Java Efficiency Test](https://github.com/faafal/Java-efficiency-test) – Benchmarks collection performance in Java.
 
 ---
 
-# 🧠 Currently Learning
+### 🧠 Currently Learning
 - Advanced **Spring Boot 3** and **RESTful APIs**
 - **Testing with JUnit & Mockito**
 - **Frontend fundamentals** (React, modern JavaScript)
