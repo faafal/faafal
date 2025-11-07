@@ -6,7 +6,7 @@
 - 💻 Currently working as an **IT Administrator** at Warsaw University of Technology Business School
 - 🚀 Building projects in **Java**, **Spring Boot**, and **SQL/PostgreSQL**
 - 🌱 Expanding my skills in **Spring Framework**, **REST API development**, and **React**
-- 🧠 All of my projects are available at [GitHub](https://github.com/faafal)
+- 🧠 All of my projects are available at [Repositories]([https://github.com/faafal](https://github.com/faafal?tab=repositories))
 
 ---
 
