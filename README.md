@@ -30,6 +30,7 @@
 ### 🧩 Projects
 - 🖼️ [Image-Steganography](https://github.com/faafal/Image-Steganography) – C++ app to embed/extract hidden messages in images.
 - ⚙️ [Java Efficiency Test](https://github.com/faafal/Java-efficiency-test) – Benchmarks collection performance in Java.
+- 🌐 [Proxy Data Aggregator](https://github.com/faafal/proxy-data-aggregator) – Proxy server featuring TCP/UDP communication and cycle-safe mesh routing
 
 ---
 
