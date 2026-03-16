@@ -3,7 +3,7 @@
 
 ###  About Me
 -  Computer Science student at the **Polish-Japanese Academy of Information Technology**
--  Currently working as an **IT Administrator** at Warsaw University of Technology Business School
+-  Currently working as a **Software Engineer Intern** at Grid Dynamics
 -  Building projects in **Java**, **Spring Boot**, and **SQL/PostgreSQL**
 -  Expanding my skills in **Spring Framework**, **REST API development**
 -  All of my projects are available at [Repositories]([https://github.com/faafal](https://github.com/faafal?tab=repositories))
