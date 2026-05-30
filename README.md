@@ -41,8 +41,3 @@
 -  [Simple Shifts](https://github.com/faafal/simple-shifts) **[WIP]** – REST API for employee shift management built with Spring Boot 3. Implements DTO patterns, Clean Architecture, and relational database mapping (Hibernate).
 
 ---
-
-###  Currently Learning
-- Advanced **Spring Boot 3** and **RESTful APIs**
-- **Testing with JUnit & Mockito**
-- **Frontend fundamentals** (modern JavaScript)
