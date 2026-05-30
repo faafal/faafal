@@ -31,6 +31,9 @@
 -  [Java Efficiency Test](https://github.com/faafal/Java-efficiency-test) – Benchmarks collection performance in Java.
 -  [Proxy Data Aggregator](https://github.com/faafal/proxy-data-aggregator) – Java based proxy server featuring TCP/UDP communication and cycle-safe mesh routing
 -  [Image-Steganography](https://github.com/faafal/Image-Steganography) – C++ app to embed/extract hidden messages in images.
+-  [Contacts Manager](https://github.com/faafal/contacts-manager) – Interactive command-line contacts management engine featuring advanced search algorithms, robust data validation, and automated QA gates (Checkstyle, PMD, SpotBugs).
+-  [JSON Database Server](https://github.com/faafal/json-database-server) – Multithreaded JSON database server featuring a custom text-based protocol over TCP sockets, concurrent request processing with ReadWriteLocks, and a modular client-server architecture.
+-  [Tic Tac Toe AI](https://github.com/faafal/tic-tac-toe-ai) – Console-based Tic-Tac-Toe game featuring an unbeatable AI player powered by the Minimax algorithm alongside customizable strategy difficulty layers.
 -  [Simple Shifts](https://github.com/faafal/simple-shifts) **[WIP]** – REST API for employee shift management built with Spring Boot 3. Implements DTO patterns, Clean Architecture, and relational database mapping (Hibernate).
 
 ---
