@@ -1,43 +1,40 @@
-#  Hi, I'm Rafał Caban
-## Java Developer | Backend-focused | Warsaw, Poland
+# Hi, I'm Rafał 👋
+**Backend Engineer | Based in Warsaw, Poland**
 
-###  About Me
--  Computer Science student at the **Polish-Japanese Academy of Information Technology**
--  Currently working as a **Software Engineer Intern** at Grid Dynamics
--  Building projects in **Java**, **Spring Boot**, and **SQL/PostgreSQL**
--  Expanding my skills in **Spring Framework**, **REST API development**
--  All of my projects are available at [Repositories]([https://github.com/faafal](https://github.com/faafal?tab=repositories))
+[contact@rafalcaban.com](mailto:contact@rafalcaban.com) • [LinkedIn](https://www.linkedin.com/in/rafal-caban/)
 
 ---
 
-##  Socials
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rafalcaban.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafal-caban/)
-
-### Tech Stack
+### About
+Computer Science student at [PJAIT](https://pja.edu.pl) and **Software Engineer Intern** at [Grid Dynamics](https://griddynamics.com). Passionate about building robust backend systems with **Java and Spring Boot**. Focused on clean architecture, performance, and structured code.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 <br>
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-EA3946?style=for-the-badge&logo=mockito&logoColor=white)
-<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-###  Projects
--  [Java Efficiency Test](https://github.com/faafal/Java-efficiency-test) – Benchmarks collection performance in Java.
--  [Proxy Data Aggregator](https://github.com/faafal/proxy-data-aggregator) – Java based proxy server featuring TCP/UDP communication and cycle-safe mesh routing
--  [Image-Steganography](https://github.com/faafal/Image-Steganography) – C++ app to embed/extract hidden messages in images.
--  [Contacts Manager](https://github.com/faafal/contacts-manager) – Interactive command-line contacts management engine featuring advanced search algorithms, robust data validation, and automated QA gates (Checkstyle, PMD, SpotBugs).
--  [JSON Database Server](https://github.com/faafal/json-database-server) – Multithreaded JSON database server featuring a custom text-based protocol over TCP sockets, concurrent request processing with ReadWriteLocks, and a modular client-server architecture.
--  [Tic Tac Toe AI](https://github.com/faafal/tic-tac-toe-ai) – Console-based Tic-Tac-Toe game featuring an unbeatable AI player powered by the Minimax algorithm alongside customizable strategy difficulty layers.
--  [Simple Shifts](https://github.com/faafal/simple-shifts) **[WIP]** – REST API for employee shift management built with Spring Boot 3. Implements DTO patterns, Clean Architecture, and relational database mapping (Hibernate).
+### 🚀 Selected Projects
+
+🦞 **[JSON Database Server](https://github.com/faafal/json-database-server)** – Multithreaded server with custom TCP protocol, concurrent processing, and modular architecture.
+
+📦 **[Proxy Data Aggregator](https://github.com/faafal/proxy-data-aggregator)** – Java-based proxy bridging TCP/UDP traffic with mesh topology and cycle-safe routing.
+
+---
+
+### 📂 Other Projects
+
+- 🕹️ **[Tic Tac Toe AI](https://github.com/faafal/tic-tac-toe-ai)** – Console-based engine powered by Minimax algorithm and Strategy Pattern.
+- 📋 **[Contacts Manager](https://github.com/faafal/contacts-manager)** – CLI engine with advanced search and automated QA gates (Checkstyle/PMD/SpotBugs).
+- 🛠️ **[Simple Shifts](https://github.com/faafal/simple-shifts)** – *WIP* – REST API for shift management (Spring Boot 3, Clean Architecture, Hibernate).
+- 🧪 **[Java Efficiency Test](https://github.com/faafal/Java-efficiency-test)** – Benchmarking suite for collection performance analysis.
+- 🖼️ **[Image-Steganography](https://github.com/faafal/Image-Steganography)** – C++ tool for embedding messages within images.
 
 ---
