@@ -38,6 +38,6 @@ Computer Science student at [PJAIT](https://pja.edu.pl) and **Software Engineer 
 
 ### 🛠️ WIP Projects
 
-- 📆 **[Simple Shifts](https://github.com/faafal/simple-shifts)** – [*WIP*] – REST API for shift management (Spring Boot 3, Hibernate).
+- 📆 **[Simple Shifts](https://github.com/faafal/simple-shifts)** – REST API for shift management (Spring Boot 3, Hibernate).
 
 ---
