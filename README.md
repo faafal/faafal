@@ -23,18 +23,21 @@ Computer Science student at [PJAIT](https://pja.edu.pl) and **Software Engineer 
 
 ### 🚀 Selected Projects
 
-🦞 **[JSON Database Server](https://github.com/faafal/json-database-server)** – Multithreaded server with custom TCP protocol, concurrent processing, and modular architecture.
+💾 **[JSON Database Server](https://github.com/faafal/json-database-server)** – Multithreaded server with custom TCP protocol, concurrent processing, and modular architecture.
 
-📦 **[Proxy Data Aggregator](https://github.com/faafal/proxy-data-aggregator)** – Java-based proxy bridging TCP/UDP traffic with mesh topology and cycle-safe routing.
+🌐 **[Proxy Data Aggregator](https://github.com/faafal/proxy-data-aggregator)** – Java-based proxy bridging TCP/UDP traffic with mesh topology and cycle-safe routing.
 
 ---
 
 ### 📂 Other Projects
 
 - 🕹️ **[Tic Tac Toe AI](https://github.com/faafal/tic-tac-toe-ai)** – Console-based engine powered by Minimax algorithm and Strategy Pattern.
-- 📋 **[Contacts Manager](https://github.com/faafal/contacts-manager)** – CLI engine with advanced search and automated QA gates (Checkstyle/PMD/SpotBugs).
-- 🛠️ **[Simple Shifts](https://github.com/faafal/simple-shifts)** – *WIP* – REST API for shift management (Spring Boot 3, Clean Architecture, Hibernate).
+- 📋 **[Contacts Manager](https://github.com/faafal/contacts-manager)** – CLI engine with advanced search and automated QA gates.
 - 🧪 **[Java Efficiency Test](https://github.com/faafal/Java-efficiency-test)** – Benchmarking suite for collection performance analysis.
 - 🖼️ **[Image-Steganography](https://github.com/faafal/Image-Steganography)** – C++ tool for embedding messages within images.
+
+### 🛠️ WIP Projects
+
+- 📆 **[Simple Shifts](https://github.com/faafal/simple-shifts)** – [*WIP*] – REST API for shift management (Spring Boot 3, Hibernate).
 
 ---
