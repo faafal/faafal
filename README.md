@@ -6,7 +6,7 @@
 ---
 
 ### About
-Computer Science student at [PJAIT](https://pja.edu.pl) and **Software Engineer Intern** at [Grid Dynamics](https://griddynamics.com). Passionate about building robust backend systems with **Java and Spring Boot**. Focused on clean architecture, performance, and structured code.
+Computer Science student at [PJAIT](https://pja.edu.pl) and ex-**Software Engineer Intern** at [Grid Dynamics](https://griddynamics.com). Passionate about building robust backend systems with **Java and Spring Boot**. Focused on clean architecture, performance, and structured code.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
